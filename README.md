@@ -2,9 +2,8 @@
 
 🚀 Sobre Mim:
 
-- 🔍 Interesse em Data Analyst e Data Engineering.
-- 📚 Estudando constantemente para evoluir profissionalmente.
-- 📊 Trabalho com analise de dados.
+- 📚 Estudante de Engenharia de Dados.
+- 📊 Trabalho com Analise de Dados.
 
   ##
 
