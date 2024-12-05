@@ -12,9 +12,10 @@
 
 🛠️ Habilidades
 
-- Linguagens de Programação: Python, VBA
+- Linguagens de Programação: Python
 - Ferramentas de Visualização: Power BI
-- Banco de Dados: MySQL, WorkBench
+- Banco de Dados: MySQL, PostgreSQL
+- Cloud: Azure
 - Outras Ferramentas: Spark, Kafka
 
 <div style="display: inline_block"><br>
