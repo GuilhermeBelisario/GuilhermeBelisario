@@ -16,12 +16,17 @@
 - Ferramentas de Visualização: Power BI
 - Banco de Dados: MySQL, PostgreSQL
 - Cloud: Azure
-- Outras Ferramentas: Spark, Kafka
+- Outras Ferramentas: Spark, Git, Docker
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-PY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-MySQl" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Rafa-SQLServer" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img align="center" alt="Gui-PY" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gui-Azure" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg">
+  <img align="center" alt="Gui-MySQl" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
+  <img align="center" alt="Gui-PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="Gui-Git" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+  <img align="center" alt="Gui-Docker" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg">
+  <img align="center" alt="Gui-Spark" height="50" width="50" src="https://spark.apache.org/images/spark-logo-trademark.png">
+  <img align="center" alt="Gui-PowerBI" height="50" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
 </div>
 
  ##
