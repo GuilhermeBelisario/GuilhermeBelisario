@@ -8,7 +8,7 @@
   ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBelisario&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBelisario&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 🛠️ Habilidades
 
