@@ -1,6 +1,6 @@
 # Olá! Eu sou Guilherme 👋
 
-🚀 Sobre Mim:
+##🚀 Sobre Mim:
 
 - 📚 Estudante de Engenharia de Dados.
 - 📊 Trabalho com Analise de Dados.
@@ -10,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBelisario&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBelisario&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-🛠️ Habilidades
+## 🛠️ Habilidades
 
 - Linguagens de Programação: Python
 - Ferramentas de Visualização: Power BI
