@@ -1,6 +1,6 @@
 # Olá! Eu sou Guilherme 👋
 
-##🚀 Sobre Mim:
+## 🚀 Sobre Mim:
 
 - 📚 Estudante de Engenharia de Dados.
 - 📊 Trabalho com Analise de Dados.
