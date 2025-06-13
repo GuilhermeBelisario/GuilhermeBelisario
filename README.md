@@ -111,7 +111,6 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
   <img align="center" title="DP900" alt="Gui-DP900" height="50" width="50" src="https://ensino.fundacaofat.org.br/uploads/2022/07/46937ae970662598b3fb317e56c68a61.png">
   <img align="center" title="Databricks Data Engineer Associate" alt="Gui-Databricks Data Engineer Associate" height="50" width="" src="https://www.databricks.com/sites/default/files/2024-05/associate-badge-de.png?v=1717145547">
   <img align="center" title="Jornada de Dados" alt="Jornada de Dados" height="50" width="50" src="https://media.licdn.com/dms/image/v2/D4E0BAQFK5LaK8NaGIQ/company-logo_200_200/company-logo_200_200/0/1722611059115/jornadadedados_logo?e=2147483647&v=beta&t=P98rFliJ5dLaiMUxtS2o8MvhVfbK85OrXrBWd6XPEzM">
-  <img align="center" title="Alura" alt="Alura" height="50" width="50" src="https://s.zst.com.br/prod/cupons/19290-Logo-200x200.png">
 </div>
 
 
