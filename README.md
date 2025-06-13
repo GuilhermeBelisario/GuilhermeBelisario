@@ -1,8 +1,3 @@
-<div>
- <img src="https://zylitix.ai/wp-content/uploads/2024/04/data-engineering-banner-gif.gif" width="100%"/>
-</div>
-
-![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeBelisario.GuilhermeBelisario&left_text=Visitantes)
 
 <div align="center">
 
@@ -13,6 +8,9 @@
 <p>Bem-vindo(a)! Como Engenheiro de Dados apaixonado por tecnologia, utilizo este espaço para documentar meus estudos, experimentar novas ferramentas e compartilhar os projetos que desenvolvo ao longo da minha jornada.</p>
   
 </div>
+
+
+![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeBelisario.GuilhermeBelisario&left_text=Visitantes)
 
 ## 👻 Quem sou eu?
 
@@ -121,3 +119,5 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
   <a href = "mailto: gbo2000@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-belisario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
