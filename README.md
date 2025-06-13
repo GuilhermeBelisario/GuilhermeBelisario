@@ -95,7 +95,8 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-Spark" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg">
   <img align="center" alt="Gui-Databricks" height="50" width="65" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/databrickslogo-freelogovectors.net_.png">
-  <img align="center" alt="Scala" height="50" width="50" src="https://skillicons.dev/icons?i=scala">
+  <img align="center" alt="Gui-Scala" height="50" width="50" src="https://skillicons.dev/icons?i=scala">
+  <img align="center" alt="Gui-Streamlit" height="50" width="50" src="https://images.seeklogo.com/logo-png/44/2/streamlit-logo-png_seeklogo-441815.png">
 </div>
 
 #
