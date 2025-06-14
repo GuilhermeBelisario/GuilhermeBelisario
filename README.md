@@ -87,7 +87,7 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBelisario&show_icons=true&theme=radical&rank_icon=github)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBelisario&show_icons=true&locale=en&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBelisario&show_icons=true&locale=en&theme=radical&count_private=true&include_forks=true)
 
 
  ## 📚 Estudando no Momento
