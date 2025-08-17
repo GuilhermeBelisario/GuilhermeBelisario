@@ -3,7 +3,7 @@
 
 ## Hello! I am Guilherme ☕
 
-###  Sobre Meu Repositório 🚀
+###  About My Repository 🚀
   
 <p>Welcome! As a Data Engineer passionate about technology, I use this space to document my studies, experiment with new tools, and share the projects I develop along my journey.</p>
   
