@@ -1,72 +1,72 @@
 
 <div align="center">
 
-## Olá! Eu Sou Guilherme ☕
+## Hello! I am Guilherme ☕
 
 ###  Sobre Meu Repositório 🚀
   
-<p>Bem-vindo(a)! Como Engenheiro de Dados apaixonado por tecnologia, utilizo este espaço para documentar meus estudos, experimentar novas ferramentas e compartilhar os projetos que desenvolvo ao longo da minha jornada.</p>
+<p>Welcome! As a Data Engineer passionate about technology, I use this space to document my studies, experiment with new tools, and share the projects I develop along my journey.</p>
   
 </div>
 
 
 ![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeBelisario.GuilhermeBelisario&left_text=Visitantes)
 
-## 👻 Quem sou eu?
+## 👻 Who am I?
 
 ```python
 class GuilhermeBelisario:
 
     def __init__(self):
-        self.nome = "Guilherme Belisário"
-        self.profissao = "Engenheiro de Dados"
-        self.localizacao = "São Paulo, Brasil"
+        self.name = "Guilherme Belisário"
+        self.occupation = "Data Engineer"
+        self.location = "São Paulo, Brazil"
     
     @property
-    def interesses_profissionais(self):
+    def professional_interests(self):
         return {
-            "area_principal": "Engenharia de Dados",
-            "tecnologias_de_interesse": ["Databricks", "Azure Cloud", "Spark"],
-            "aprendendo_atualmente": "Databricks"
+            "main_area": "Data Engineering",
+            "technologies_of_interest": ["Databricks", "Azure Cloud", "Spark"],
+            "currently_learning": "Databricks"
         }
 
     @property
     def hobbies(self):
         return [
-            "Ler livros",
-            "Academia", 
-            "Animes", 
-            "Jogos",
-            "Viajar (o quanto der!)"
+            "Reading books",
+            "Gym", 
+            "Anime", 
+            "Gaming",
+            "Traveling (as much as possible!)"
         ]
 
     @property
-    def metas_e_ambicoes(self):
+    def goals_and_ambitions(self):
         return [
-            "Aprender outras linguas além do Inglês (Francês e outras)",
-            "Ter uma experiência de morar e trabalhar no exterior",
-            "Criar um projeto de dados com impacto social positivo",
-            "Conhecer o mundo",
-            "Ser feliz e realizado na jornada"
+            "Learn other languages besides English (French and others)",
+            "Have the experience of living and working abroad",
+            "Create a data project with positive social impact",
+            "Get to know the world",
+            "Be happy and fulfilled in the journey"
         ]
 
-# Para me conhecer, instancie a classe!
-eu = GuilhermeBelisario()
-print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
+# To get to know me, instantiate the class!
+me = GuilhermeBelisario()
+print(f"Hello! I'm {me.name}, a {me.occupation} based in {me.location}.")
 
 ```
 
 
 
-## 🛠️ Habilidades
+## 🛠️ Skills
 
 ```
-- Linguagens: Python, SQL
-- Big Data: PySpark, Databricks
+- Languages: Python, SQL
+- Big Data: PySpark, Databricks, Airflow
 - Cloud: Microsoft Azure
-- Data Viz: Power BI
-- Bancos de Dados: PostgreSQL
-- Ferramentas: Git, Docker
+- Data Viz: Power BI, Streamlit
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker
 ```
 
 <div align="center" style="display: inline_block"><br>
@@ -81,7 +81,7 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
 
 #
 
-## 📊 Status do meu GitHub:
+## 📊 My GitHub Status:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeBelisario&show_icons=true&theme=radical&rank_icon=github)
@@ -90,7 +90,7 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBelisario&show_icons=true&locale=en&theme=radical&count_private=true&include_forks=true)
 
 
- ## 📚 Estudando no Momento
+ ## 📚 Studying
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gui-Spark" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg">
@@ -105,7 +105,7 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
  <img  src="https://media.tenor.com/fRwU2Z3GKtgAAAAM/busy-working.gif" width="200px"  />
 </div>
 
-## 🎓 Certificações e Cursos
+## 🎓 Certifications and Courses
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" title="DP900" alt="Gui-DP900" height="50" width="50" src="https://ensino.fundacaofat.org.br/uploads/2022/07/46937ae970662598b3fb317e56c68a61.png">
@@ -114,7 +114,7 @@ print(f"Olá! Sou {eu.nome}, um {eu.profissao} baseado em {eu.localizacao}.")
 </div>
 
 
-## 📩 Contatos:
+## 📩 Contacts:
 <div align="center"> 
   <a href = "mailto: gbo2000@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-belisario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
