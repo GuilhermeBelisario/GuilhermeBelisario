@@ -10,7 +10,7 @@
 </div>
 
 
-![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeBelisario.GuilhermeBelisario&left_text=Visitantes)
+![Contador de Visitas](https://visitor-badge.laobi.icu/badge?page_id=GuilhermeBelisario.GuilhermeBelisario&left_text=Visitors)
 
 ## 👻 Who am I?
 
