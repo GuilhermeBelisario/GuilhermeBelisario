@@ -116,7 +116,7 @@ print(f"Hello! I'm {me.name}, a {me.occupation} based in {me.location}.")
 
 ## 📩 Contacts:
 <div align="center"> 
-  <a href = "mailto: gbo2000@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "mailto: guilherme.belisario@lofreytech.dev"><img src="https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-belisario/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
